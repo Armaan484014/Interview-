@@ -1,1 +1,0 @@
-// utils/certificate.ts content placeholder
